@@ -3,8 +3,6 @@
 
 Amazon Rekognition 에 대해서 공부하고 실행해보는 프로젝트.
 
-실행경과는
-
 먼저 aws cli를 활용하여 이미지 파일을 통해 실습을 해보았으며 
 
 추가로 aws cli로 비디오 파일에 startlabelsdetection api를 활용해 실습을 해보았고 
