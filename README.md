@@ -10,16 +10,27 @@ Amazon Rekognition 에 대해서 공부하고 실행해보는 프로젝트.
 최종적으로 aws sdk 를 활용해 자바 코드를 통한 실습으로 제대로 된 결과가 나오는 것을 확인하였으며 
 
 사용한 api는
+
 StartLabelsDetection
+
 StartFaceDetection
+
 StartPersonTracking
+
 StartCelebrityRecognition
+
 StartContentModeration
+
 GetLabelsDetection
+
 GetFaceDetection
+
 GetPersonTracking
+
 GetCelebrityRecognition
+
 GetContentModeration
+
 들을 활용하였다.
 
 자격 증명과 sns, sqs 에서 가장 많은 문제가 발생했으며 공부하여 해결하였다.
